@@ -12,7 +12,8 @@ Matlab. Run main_demo.m
 ```
 
 ### Datasets
-We use four datasets to perform our experiments, i.e., aPY, AWA1, AWA2, and ImageNet1K. You can download all datasets using the following link: https://pan.baidu.com/s/1-wh3Zki5czvuYmcrduwZVA?pwd=5jb4
+We use four datasets to perform our experiments, i.e., aPY, AWA1, AWA2, and ImageNet1K.
+You can download all datasets using the following link: https://pan.baidu.com/s/1UbkpDn8RTKXKaydZUfDegw?pwd=mima
 
 
 ### Citation
